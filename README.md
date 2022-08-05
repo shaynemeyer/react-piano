@@ -28,6 +28,7 @@ Your app is ready to be deployed!
 ## Dependencies
 
 - [Soundfont](https://www.npmjs.com/package/soundfont-player)
+- [clsx](https://www.npmjs.com/package/clsx)
 
 ## Resources
 
