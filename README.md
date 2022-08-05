@@ -24,3 +24,13 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+## Dependencies
+
+- [Soundfont](https://www.npmjs.com/package/soundfont-player)
+
+## Resources
+
+- [Octave Notation](http://www.flutopedia.com/octave_notation.htm)
+- [Custom CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
+- [rem for font size](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size#rems)
