@@ -1,5 +1,9 @@
 # React Piano
 
+![](/docs/images/react-piano.png)
+
+Piano application written in React with the Soundfont library and using React Hooks.
+
 ## Available Scripts
 
 In the project directory, you can run:
